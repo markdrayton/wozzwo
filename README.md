@@ -2,7 +2,7 @@
 
 Parses whatsonzwift.com workout pages to produce `zwo` files for use in Zwift. Note that the resulting workouts don't include the text messages that in-game workouts include because they aren't listed on whatsonzwift.com.
 
-Please also pay attention to the [https://whatsonzwift.com/terms-conditions/](terms and conditions) at whatsonzwift.com. Don't use this tool to break them.
+Please also pay attention to the [terms and conditions](https://whatsonzwift.com/terms-conditions/) at whatsonzwift.com. Don't use this tool to break them.
 
 ## Usage
 
